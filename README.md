@@ -5,3 +5,6 @@ in python like scipy.misc.imresize and torch.nn.function.Upsample(interpolation)
 They outputs different results with the results on matlab version. 
 And I will update an python version 'bicubic' using numpy as soon as possible. 
 And of course it can not acclerate by cuda, resulting slower results.
+images/monarch.png
+#input image
+![image](https://github.com/tonyzzzt/bicubic-interpolation-pytorch-version-the-same-results-with-matlab-imresize/images/monarch.png)
