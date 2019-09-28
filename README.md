@@ -6,5 +6,15 @@ They outputs different results with the results on matlab version.
 And I will update an python version 'bicubic' using numpy as soon as possible. 
 And of course it can not acclerate by cuda, resulting slower results.
 images/monarch.png
+
+
+
 #input image
-![image](https://github.com/tonyzzzt/bicubic-interpolation-pytorch-version-the-same-results-with-matlab-imresize/images/monarch.png)
+![image](https://github.com/tonyzzzt/bicubic-interpolation-pytorch-version-the-same-results-with-matlab-imresize/blob/master/images/monarch.png)
+
+#bicubic 1/4scale image
+![image](https://github.com/tonyzzzt/bicubic-interpolation-pytorch-version-the-same-results-with-matlab-imresize/blob/master/images/mybicubic_4down.png)
+
+
+#bicubic 4scale image
+![image](https://github.com/tonyzzzt/bicubic-interpolation-pytorch-version-the-same-results-with-matlab-imresize/blob/master/images/mybicubic_4up.png)
